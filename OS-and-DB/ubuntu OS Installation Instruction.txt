@@ -1,0 +1,25 @@
+Prerequsite:
+
+1) Install visual C++ redistributable from below link
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+2) virtualization technology enabled in BIOS
+
+Reboot the computer.
+While the system is restarting from a black screen, enter BIOS by pressing the hotkey. Example: for HPmake laptop press f10, Lenova f2 ...
+Navigate to Advanced Tab and press Enter to continue.
+Select Virtualization and Enable.
+Save changes and reboot the computer.
+
+3) To download the Oracle Virtual Box tool
+
+https://download.virtualbox.org/virtualbox/7.0.4/VirtualBox-7.0.4-154605-Win.exe
+
+4) To Download Ubuntu
+https://ubuntu.com/download/desktop/thank-you?version=22.04.1&architecture=amd64
+
+5) Install Ubuntu ISO on Oracle Virtual Box : Please refere the Below link or see the attached PDF along with this instruction file.
+
+https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
+
+
