@@ -1,0 +1,145 @@
+30-Jan-2023 Monday
+11am 
+
+The basic questions
+
+cricket - sachin, dhoni...
+coffee - sugar,...
+BUS - CROWD, TICKET...
+
+first lesson : BE A CUSTOMER
+BCOS - YOU PAY !!!!
+
+Information Technology
+Data
+Programs
+
+1 page about India 
+	in mother tongue
+
+ERROR IS INEVITABLE
+
+Bank- DD
+	someone makes DD
+	someone else approves DD
+
+mistakes - problems - issues - errors...
+
+in sw , firing due to bug does not happen
+in other industries, waste is physical
+logistics cost - moving the parts
+in sw - no logistics cost
+correction is easy
+
+scarp - recycling is also a cost
+
+WHERE IS THE BUG/PROBLEM?
+
+What - program, and data
+
+WHO tests - programmer tests first
+		tester
+		customer
+		
+		MORE TESTS - BETTER QUALITY
+	
+TV Remote control.
+	what will you test?
+
+there are so many tests to be done
+you cannot rememeber all tests
+you must write it down
+
+TESTING INVOLVES DOCUMENTATION
+
+test MS Excel!!!!
+
+Quality to go up
+	Increase testing
+
+Write with pen and paper
+
+You buy a bike from an unknown person
+what will you test?
+
+31-jan-2023 tue
+---------------
+Bike
+
+Parts or configuration
+----------------------
+seat, number plate, gear, kick start, ...
+is the part there?
+is the part in the right place?
+
+Security
+---------
+is the petrol tank leaking or not?
+
+Functionality / Features
+-------------------------
+
+operations of the object
+
+performance
+-----------
+pick up
+mileage
+load
+hill - go up
+heat
+noise
+smoke
+
+Compatibility
+-------------
+
+change in environment
+pen on diff paper types
+skype  on Wind 10, Wind 11, Ubuntu linux
+
+think in these 5 angles
+WRITE IT DOWN
+
+Pen - what wil you test?
+------------------------
+cap, neck, feeder, tabk, nib, ink, pocket holder pin
+
+cap fits neck
+leakage
+
+writing
+with full tank
+with low level ink
+
+performance - time, more users/weight
+how long can i write with 1 tank
+how fast 
+5 days i do not write
+
+compatibility
+paper
+change ink
+
+TEsting is a fast growing market
+
+Exercise
+
+What will you test in a railways reservation form?
+
+abc wrote:
+I will make sure that the reservations are bonafide and no malpractices are being indulged in. Then check the availability of the number of seats.Then rate of the ticket and compare other reservation platforms for better option.
+
+xyz wrote:
+we can check train number & name when our railway reservation.
+
+check whether the train name, time date class money on the page are same as deserved by you
+
+enter the name of the passenger age gender etc..in each passenger details
+
+YOU FIRST READ IT
+USE GRAMMARLY to check 
+STICK TO WHAt YOU ARE ASKED TO DO 
+
+Think that 1n 8th std person will take instruction 
+from you

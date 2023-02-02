@@ -1,0 +1,70 @@
+Upskill program
+1-feb-2023 wed
+software testing
+
+page or screen or form
+	elements - list, button, link, text box, grid
+		icon, image...
+
+you act - click or scroll or type
+system reacts
+	go to another page
+	display message
+
+software testing
+	check whether the reaction of the system/appln
+		is same as expected or not
+	
+reservation system
+	lookup >> class, seat/berth, 
+	will appear in list as a type
+	small in  number
+	acronym or a name and a description
+	values do notchange often
+
+master data
+	group of data elements associated 	
+	identified by a unique identifier
+	
+	Train
+		train number
+		train name
+		start stn
+		destn
+		number of coaches
+		exp or passenger
+		capacity..
+		which days it runs
+		
+SBI assume 50000 atms e.g.
+in a day 10 w/d per atm
+5 lacs w/d data goes to db
+
+Lookups
+	Employee type
+	Customer type
+	Account type
+	Loan types
+	Branch type
+	ATM Type
+	Profession
+	List of states
+	List of districts
+	Denomination
+
+Masters
+	Branch master
+	Customer master
+	Employee master
+	ATM master
+	Vendor master
+	Vehicle master
+	Staff Quarters master
+	Loan master
+	
+	
+	
+	
+
+
+
