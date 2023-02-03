@@ -1,0 +1,125 @@
+Upskill program
+1-feb-2023 wed
+software testing
+
+page or screen or form
+	elements - list, button, link, text box, grid
+		icon, image...
+
+you act - click or scroll or type
+system reacts
+	go to another page
+	display message
+
+software testing
+	check whether the reaction of the system/appln
+		is same as expected or not
+	
+reservation system
+	lookup >> class, seat/berth, 
+	will appear in list as a type
+	small in  number
+	acronym or a name and a description
+	values do notchange often
+
+master data
+	group of data elements associated 	
+	identified by a unique identifier
+	
+	Train
+		train number
+		train name
+		start stn
+		destn
+		number of coaches
+		exp or passenger
+		capacity..
+		which days it runs
+		
+SBI assume 50000 atms e.g.
+in a day 10 w/d per atm
+5 lacs w/d data goes to db
+
+Lookups
+	Employee type
+	Customer type
+	Account type
+	Loan types
+	Branch type
+	ATM Type
+	Profession
+	List of states
+	List of districts
+	Denomination
+
+Masters
+	Branch master
+	Customer master
+	Employee master
+	ATM master
+	Vendor master
+	Vehicle master
+	Staff Quarters master
+	Loan master
+
+2-Feb-2023 Thu
+---------------
+
+Transactions
+	uniquely identifiable
+	associated data
+	more than one master data will be referred in txn
+	
+	customer - a/c num in bank
+	you do a deposit
+	deposit in a speicfic branch
+	
+	one customer or branch or a/c 
+		will have only one record in master
+		can have more than one txn
+		one to many relationship
+	
+	marksheet - stud id, subj code, sem id, marks
+	
+Work flow
+	process
+		action and data and sequence
+
+	data moves from one page to another
+	data moves from user to user also
+
+Exploratory testing
+-------------------
+new place - what will you do?
+
+Positive tests
+	try to make it work
+	
+negative tests
+	try to break it
+	
+	DO IT BY YOURSELF
+
+	NO RULES
+
+
+	
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	
+	
+	
+
+
+
