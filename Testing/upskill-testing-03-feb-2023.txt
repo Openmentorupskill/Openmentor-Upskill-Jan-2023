@@ -1,0 +1,64 @@
+3-feb-2023 fri
+software testing
+
+Material request 
+	i need item xyz qty 100 before this date
+	from this location to this store
+
+Request for quotation - tender
+	customer wants quotation
+	for item xyz
+	in the price range a to b 
+	quantity 12000
+	before this date
+
+Domains - industries
+	textile
+	automobile
+	banking
+	insurance
+	healthcare 
+	shiping
+	stock market
+	
+CRUD concept
+	Create Read Update Delete
+
+C - create, add, insert, save for the first time
+	INSERT
+R - read, view, select
+	SELECT
+U - update, edit, modify, change
+	UPDATE
+D - delete, remove, erase, trash...
+	DELETE
+
+create one time
+delete one time
+read and update - multiple times
+
+structured way of testing.
+
+checklist approach
+
+4-feb-2023
+MCQ
+11am to 1pm
+25 questions in each paper
+100 min more than enough
+THIS iS NOT FOR ANY GRADING
+THIS IS ONLY FOR PRACTICE
+
+MCQ LINK WE WILL PUBLISH IN OPENMENTOR WEBSITE
+
+1. For each element in a page, mainly text or number 
+inpur fields, do these checklist
+	empty
+	length min 1 char
+	length N char
+	lenght more than N char
+	value min - lower boundary
+	value max - upper boundary
+	value negative
+	value junk
+	
