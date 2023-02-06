@@ -1,0 +1,101 @@
+6-feb-2023 monday 
+testing
+
+WHAT you do?
+	wake up
+	refresh
+	walk
+	attend classes
+	talk to friends
+	go to mess and eat
+	play game
+	attend coding classes
+
+Attend classes
+	just one activity
+	take just one class 
+	in just one class - what will you do?
+		taking notes
+			listen
+			see 
+			understand
+			write
+				move to next page
+		discuss about projects
+		
+	from hostel - to your classroom
+		tell me the way/direction
+		get on to the road
+		walk for few meters - 5 meters
+		get onto the platform  or side path
+		turn left
+		walk for 5 meters
+		turn right
+		walk for 20 meters
+		
+		to give specific instructions
+			SO THAT THERE IS NO CONFUSION
+	
+	Outsourcing happens
+		client is not in India
+	
+	what connects client and vendor in IT outsourcing?
+		communication
+			verbal
+			DOCUMENTS
+	
+	only 0.35% of whole population work in IT in India
+	50 lakcs out of 140 cr people
+	
+	revenue 227 bn USD
+	IT industry accounted for 7.4% of India’s GDP in FY22,
+
+What will you do in ATM
+	enter card
+	check balance
+	w/d money
+	deposit money
+	change pin
+	...
+
+
+How will you check balance?
+	tell me the procedure.
+	step by step instruction.
+
+To cancel the ticket
+
+Pre-requisite:
+The ticket must be confirmed before you cancel.
+Date of cancel must be withi n48 hrs from train departure.
+
+Steps:
+Login
+Go to PNR status form
+Enter PNR number
+Click Get status
+Click Cancel
+Confirm Yes to cancel
+
+What is the expected result?
+Tickt must go to cancel status
+Money to be refunded to bank or card account 
+SMS to be received on cancellation
+
+
+HOW
+	BEFORE YOU DO - what should be there?
+	STEPS TO DO
+	AFTER YOU DO - What must happen?
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
