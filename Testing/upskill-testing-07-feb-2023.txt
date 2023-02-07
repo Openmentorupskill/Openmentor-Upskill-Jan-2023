@@ -1,0 +1,79 @@
+7-feb-2023
+tue
+
+WHAt: generate bill in a grocery store
+HOW?
+	login as a user
+	click create bill
+	enter item name or code
+		it will display item price and actual name
+	enter quantity
+	repeat the above 2 steps for all items
+	click calculate total
+		sys will display cost, tx etc
+	choose payment mode
+		card or cash
+	click cash
+	get cash
+	click amount paid
+	click print bill
+	
+Positive and negative testing
+
+What can go wrong?
+	user gives input
+	wrong input leads to wrong output
+	what mistakes user can do?
+	
+	You try this on the system
+	check if the system rejects the wrong input
+	system must warn or issue error for wrong inputs
+	
+	prevent wrong steps
+	if user tries to miss a step, warn user
+
+positive
+	system must allow valid inputs
+	system must allow step by step acitivty
+	
+	
+Materials Management Process
+-----------------------------
+
+centralised store that has all parts - inventory
+purchase dept - deal with suppliers/vendors
+finance - money
+
+Multiple departments need diff material for their use 
+	x material qty = xyz, before thsi time
+	material request/indent
+
+this request will reach stores
+is the material available ?
+	if so, give material issue note
+	send that part to that dept
+
+if not available:
+	inform purchase dept
+	request for proposal or tender
+		to vendors - what material, what qty, price range, on or before
+	vendor will give quotation
+	purchase dept will issue PO - purchase order
+		vendor will get PO
+	vendor will supply material
+	it will reach stores/godown
+	
+	GRN - goods receipts note
+	
+	inspection team will check the material
+	
+	if material is not good,
+		raise goods rejection note
+	
+	accepted material will go back to stores as stock
+	
+	vendor will raise invoice to finance
+		
+	finance will pay money to vendor
+	
+	
