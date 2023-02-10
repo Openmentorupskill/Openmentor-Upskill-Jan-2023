@@ -1,0 +1,69 @@
+Vi editor
+i - insert
+Esc key- move out of insert mode
+r - repeace character
+dd- delete line
+YY - ﻿﻿copy/yank lines
+p - ﻿﻿paste/put
+0-(zero) goto beginning of line
+$ - ﻿﻿go to end of Line﻿
+/ -﻿forward search﻿
+? - ﻿backward search
+:0 - ﻿﻿go to begin of file﻿
+:$ - ﻿go to last line of file﻿﻿
+:n - go to nth line 
+w - goto next word
+b - go to previous word
+A - append at the end of line
+u - undo 
+ctrl-u - sdroll up 
+ctri-d - scroll down
+x- to delete the character
+dw - delete a word
+:s/article/tutorial/g - find replace all occurance in a single line
+:%s/article/tutorial/g - find replace all occurance in a file
+:%s/article/tutorial/gc - find replace all occurance with confirmation
+
+grep
+grep who file*
+grep today file*
+grep -i today file*
+grep -in today file*
+grep -in line file*
+
+wc - word count 
+wc file.txt - no of lines, word count, bytes
+wc -l will give us the no of lines in a file
+wc -w will give us the no of words in a file
+wc -c will give us the no of count of bytes in a file
+wc -m will give us the no of count of character in a file
+
+list users in /etc/passwd
+cat /etc/passwd
+
+To know the OS version
+cat /etc/lsb-release 
+
+To know the processor info
+lscpu
+
+Find a file 
+find filename
+
+Find a directory
+find / -type d -name "apt" 
+find /home/krishnan/ -type d -name d2
+
+FTP
+WinSCP
+
+ 
+
+
+
+
+
+
+
+
+

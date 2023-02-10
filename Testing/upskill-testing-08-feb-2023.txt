@@ -1,0 +1,69 @@
+8-feb-2023 wed
+testing
+
+Test scenarios
+	aka test conditions
+
+What you do?	What is expected as a result?
+this the test conditions
+
+you cannot remember everything
+you cannot be the blocker/bottleneck
+document everything
+
+what you do - write it as an instruction
+	in active voice
+	start with a verb
+
+documentation needds thinking and writing skills
+
+CRM
+	Customer Relationship Management
+
+Marketing
+Sales
+Support
+
+Marketing
+	Brand building
+	make sure that the brand name sticks to people's brain
+	advertising
+		paper
+		magazine
+		tv
+		radio
+		whatsapp
+		linkedin
+		insta
+		fb
+		google
+		boards
+		match sponsorship
+	track how many watched you?
+	planning of ads - timing
+	campaigning - tom tom
+	
+	conditions for email testing:
+	
+	SignUp With credentials-It allows access.            
+	Login with mailID and Password-Displays home page.
+	Click Inbox- It displays all emails.
+	Click menu icon-show all the labels.                                                 
+	Select sync now-It will sync all saved credentials to the current working device.      
+	Enter words in search box-It will listed relevant info.
+	Clicking on the Star mark-Mail willbe starred.
+	Swipe emails right/left-mail will be archieved.
+	
+	outbox
+	deleted items
+	labels
+	multiple folder
+	signature
+	reply
+	forwrd
+	compose
+	cc
+	bcc
+	
+	permutation - combination
+	
