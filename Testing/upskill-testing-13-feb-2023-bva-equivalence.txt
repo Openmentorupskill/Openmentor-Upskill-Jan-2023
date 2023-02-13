@@ -1,0 +1,49 @@
+13-feb-2023
+monday
+testing
+
+boundary values (BVA)
+
+age must be between 10 and 110
+
+min  - 10
+max - 110
+min - 1 = 9
+max + 1 = 111
+
+boundaries - length , values
+
+Test team must certify the product
+
+
+Equivalence partition in testing (category)
+--------------------------------
+age must be between 10 and 110
+
+have one test for each category
+
+value = 9 or 8 or 2 - category - less than 10, single digit
+value = -1, -9, - 5 - less than 10, negative number
+value = 111, 123, 890...more than 110, 3 digits
+value = 1000 , 1120... 4 digits
+
+buckets or bins
+
+pincode - 6 digits only
+
+110011 
+
+999999
+
+11111, 22222, 33333
+1000000, 1000001, 1000002
+333, 444, 555
+-100001
+100.01
+
+
+
+
+
+
+
