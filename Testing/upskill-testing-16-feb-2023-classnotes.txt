@@ -1,0 +1,59 @@
+16-feb-2023 thu
+testing
+
+WHAT to test - test conditions
+
+BVA
+Equiv Partition
+
+for negative testing
+	numeric field - alpha, punct marks, special characters
+	alpha - number, punct, other characters
+	alphanumeric - special characters
+
+CRUD
+
+Create - new - insert
+	Add a brand new record
+	Add a duplicate record
+
+Read - view
+	try to view an existing record
+	try to view a non existing record
+	
+Update - modify
+	modify an existing record
+	try to modify with invalid values
+
+Delete
+	delete an existing record
+	delete, cancel instead of confirming
+
+Test case.
+
+remember the following terms: -- life long
+	configuration - security - functionality - performance
+		- compatibility
+	What to test, how to test
+	positive test, negative test
+	activity - user - data
+	read the requirements, understand and Ask doubts
+	test scenario/condition - test case - test results/bug report
+	
+HOW TO TEST - test case
+	step by step instructions
+	
+lab experiments
+	exp id
+	aim
+	apparatus
+	procedure
+	observation
+	conclusion
+	
+STEP BY STEP details - TEST CASE
+
+
+	
+	
+	
