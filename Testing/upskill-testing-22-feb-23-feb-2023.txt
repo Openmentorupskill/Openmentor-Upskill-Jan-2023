@@ -1,0 +1,77 @@
+
+follow the test case doc, execute the steps
+	test execution
+
+you have 8 full hours for work day
+480 minutes
+even if you take 10 min per test case to type,
+	48 test cases you can do in a day
+
+Quality Control
+	find out the issues
+	find out what is working
+		find out what is not working
+
+Test lead may give you a goal
+	daily anywhere from 250 to 400 test cases to be documented
+	
+test execution speed
+	On test case, on an average,
+		takes e.g. 3 minutes
+	1 hour --- 20 test cases
+	8 hrs	--- 160 tests 
+
+test condition - high level - one line per condition
+	high level activity
+
+test case - very detailed
+	every single click, every type must be documented
+	multiple lines for every test case
+	this is like user manual 
+
+Assignment for you all
+
+Write test cases for OM - Quiz, Assignment, Announcement modules
+
+
+plus to do testing part time
+
+
+map users to WG -  items per page are not working.
+
+bug or problem or issue
+
+1 computer will occupy 2000 sq ft
+
+you need to create a bug report
+
+Which page you got the error?
+What error message you got?
+What input you gave?
+what was the reaction by the system?
+
+if web , mention which browser
+	which browser version
+	OS 
+
+Bug Tracking System
+
+attach the screenshot
+
+Tester will file bug report
+complaint about an issue in the product
+
+
+Requirements study - understand teh document
+Think about perm combination
+Write test scenarios
+Write test cases
+Execute the test cases
+When you get issue, on product, file a bug report
+
+
+Write a complaint about a problem in your locality
+
+write one complaint about a problem in the current education system
+
+
