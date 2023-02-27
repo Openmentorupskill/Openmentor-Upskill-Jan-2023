@@ -1,0 +1,55 @@
+27-feb-2023 monday
+
+Never think it is a silly doubt
+ASK
+DO NOT HESITATE
+RESPOND - THIS IS THE CRITICAL PIECE
+
+Workflow scenarios/cases
+
+data moves from pageto page
+	user to user
+	steps are involved to complete a transaction
+
+college application portal
+
+for workflow test cases, give high level instructions
+	typically field data will not be given
+	
+ensure data is submitted on one page
+	viewed on another page	
+		by same user as well as different user
+
+also known as - end to end test cases
+	string test cases
+	
+Exercise 
+
+odoo.com 
+sign up for CRM - free
+understand the application by youself
+1135 to 1155 am - EXPLORE
+
+note the features
+tell me at least 5-6 features it has 
+
+Exploratory testing
+	Proj mgr or lead will just give access
+	basic intro
+	rest is in your hands
+	
+	go to every option/menu
+	go to every page possible
+	enter some data, save, view, modify, delete
+	play around
+	
+	by doing this, you will learn FASTER
+	
+	YOU SHOW ON SCREEN - I HAVE DONE THESE THINGS IN APPLICATION
+	
+	it shows your energy levels
+	it helps you !
+	a fast learner can be easily identified
+	
+	
+	
