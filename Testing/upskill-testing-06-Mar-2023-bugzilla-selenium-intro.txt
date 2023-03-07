@@ -1,0 +1,38 @@
+Bug Severity
+
+Blocker or Show Stopper - a complete failure
+	it stops from going further
+
+High  or Major
+	Data loss
+	Crash
+	Consistent failures
+
+Medium
+	Also high, but a work around/alternate way is possible
+
+Low or minor
+	UI text
+	Message is not clear
+
+Every tool provides, bug  history
+
+4 actions in testing
+
+click
+type
+see
+decide pass or failure
+
+Selenium
+open source tool
+
+install browser extension for chrome
+
+record user actions
+playback actions
+
+
+
+
+
