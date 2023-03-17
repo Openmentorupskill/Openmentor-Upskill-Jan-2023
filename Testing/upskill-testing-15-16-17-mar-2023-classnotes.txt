@@ -1,0 +1,171 @@
+15-mar-2023
+Testing
+
+POS - vyaapaar
+CRM - odoo
+mini ERP - MMDisplay
+Textile
+Agri
+Banking
+Insurance
+Healthcare
+Telecom
+Retail
+
+
+
+Every company spends typically 2-10% on IT 
+
+HR Domain
+Every company needs HR
+
+Organization
+	Roles/designations - CEO, CTO, CMO, VP, AVP, PM, APM, PL...
+	structure - who reports to who?
+	Departments - purchase, fin, accounts, sales, marketing...
+
+Hiring
+	Job descriptions, location, salary
+	How many positions
+	Get candidate profiles
+	Screen profiles - filter out
+	Schedule test or interview - question paper, venue, date/time..
+	Get test or interview status
+	Give offer letter
+	Get acceptance
+	Verify records
+	On board the employee - email, location, tickets, stay, id cardd..
+	
+You are now in the company as an employee
+	Self service
+	
+Attendance
+	Scan the cardd
+	bio metric
+	there may 20 bldgs in the campus
+		multiple floors
+	
+	Leave tracking
+		Apply for leave
+		Manager will have to approve
+		
+
+	
+
+16-mar-2023
+HRMS
+
+Travel
+	purpose
+	mode
+	location from/to
+	start and end date/time
+	
+	approval
+
+Reimbursement
+	amount for various expenses
+	
+Submit data 
+manager or otehr higher authorities will approve
+
+cases or tickets or queries
+	similar to bug tracking
+	
+17-mar-2023
+------------
+Performance Appraisal
+
+Get current skill sets
+	and self rating
+	Java 8/10
+	Oracle 7/10
+	Slenium 7/10
+
+Apprisal Calendar
+	for the period 1-jun-2022 to 31-may-2023
+	appraisal period 1-june-2023 - 30-june-2023
+
+Performance parameters, weightage
+	Personal - 15%
+		punctuality
+		status reporting
+		cleanliness
+		
+	Competency - 60%
+		writing
+		communication
+		programming
+		testing
+		database
+		OS
+		presentation
+		project tracking
+		
+	Extra - 25%
+		culturals
+		train others
+		help others
+		NGO
+		Volunteers
+
+Rating scale
+	1 to 10
+	1 to 5
+		define the criteria for each number
+	
+Publish self appraisal form
+	you rate yourself on these parameters	
+	you give marks to yourself
+
+Manager Rating - along wit you
+	for each parameter, manager will rate you
+
+	dispute may come
+
+Normalization - HR will  make this level playing field
+	manager A may be strict
+	manager B may be easy going
+
+Goal setting for next year
+	to improve further
+
+results publish
+	super performers - 2-5%
+	good performers in line with expectation
+	ok performers, improvement requried
+	poor performers - 2-5%
+
+New compensation - package
+	HR and Fin/acc team will decide
+	Basic
+	HRA
+	Travel
+	Food
+	...
+	
+	
+	
+
+
+
+
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+	
